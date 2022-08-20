@@ -12,16 +12,16 @@ https://user-images.githubusercontent.com/50932070/185721621-19f1e0a4-5eb9-4987-
 
 https://user-images.githubusercontent.com/50932070/185721679-ff301f37-2e35-4ef8-bef0-66393fe24699.mp4
 
-
-
-First click places the blue start tile
-Second click places the yellow end tile
-Spacebar begins the search
-
-Right click removes any tiles from the board
-
-If both the start and the end position have been placed, 
-any further clicks will place down a wall tile
-
-'n' key to remove all tiles from the board
-'c' key to remove all tiles excluding the start, end, and wall tiles
+  
+  
+First click places the blue start tile  
+Second click places the yellow end tile  
+Spacebar begins the search  
+  
+Right click removes any tiles from the board  
+ 
+If both the start and the end position have been placed,   
+any further clicks will place down a wall tile  
+  
+'n' key to remove all tiles from the board  
+'c' key to remove all tiles excluding the start, end, and wall tiles  
